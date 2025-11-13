@@ -1,0 +1,5 @@
+.venv/
+
+# Data folders
+Chapter 6 - Image Classification/data/
+Chapter 7 - Improving CNN/data/
