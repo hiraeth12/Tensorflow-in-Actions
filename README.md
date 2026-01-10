@@ -21,12 +21,17 @@
 - **Chapter 3: Keras and Data Retrieval in TensorFlow 2** – *Page 47*  
 - **Chapter 4: Dipping Toes in Deep Learning** – *Page 80*  
 - **Chapter 5: State-of-the-Art in Deep Learning — Transformers** – *Page 119*  
-- **Chapter 6: Teaching Machines to See — Image Classification with CNNs** – *Page 147*  
+- **Chapter 6: Teaching Machines to See — Image Classification with CNNs** – *Page 149*  
 - **Chapter 7: Teaching Machines to See Better — Improving CNNs and Making Them Confess** – *Page 194*  
 - **Chapter 8: Telling Things Apart — Image Segmentation** – *Page 243*  
 - **Chapter 9: Natural Language Processing with TensorFlow — Sentiment Analysis** – *Page 296*  
-- **Chapter 10: Natural Language Processing with TensorFlow — Language Modeling** – *Page 349*
-- **Chapter 11: Sequence-to-Sequence Learning, Part 1** – *Page 385*  
+- **Chapter 10: Natural Language Processing with TensorFlow — Language Modeling** – *Page 349*  
+- **Chapter 11: Sequence-to-Sequence Learning, Part 1** – *Page 387*  
+- **Chapter 12: Sequence-to-Sequence Learning, Part 2** – *Page 433*  
+- **Chapter 13: Transformers** – *Page 453*  
+- **Chapter 14: TensorBoard: Big Brother of TensorFlow** – *Page 511*  
+- **Chapter 15: TFX: MLOps and Deploying Models with TensorFlow** – *Page 554*
+
 ---
 
 ## Core Deep Learning and TensorFlow Concepts
