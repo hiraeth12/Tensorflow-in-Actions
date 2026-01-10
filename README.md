@@ -2,6 +2,11 @@
 
 <img src="/cover_tf_in_action.jpg" width="300" alt="Book Cover">
 
+**Group 3 Deep Learning Class**
+
+- **Sahrul Ridho Firdaus** - *1103223009*
+- **Rayhan Diff** - *1103220039*
+
 ---
 
 ## Part 1: FOUNDATIONS OF TENSORFLOW 2 AND DEEP LEARNING
